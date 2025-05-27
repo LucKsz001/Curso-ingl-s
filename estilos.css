@@ -272,6 +272,6 @@ footer a:hover {
 
     .level-card, .flex-item, .testimonial-card {
         width: 100%;
-        max-width: 450px; /* Evita que fiquem muito largos */
+        max-width: 450px;
     }
 }
