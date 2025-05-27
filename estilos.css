@@ -92,6 +92,7 @@ header h1 {
 }
 
 .cta-button {
+    
     margin-top: 2rem;
     display: inline-block;
     background-color: var(--ap-green);
