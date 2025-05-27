@@ -257,8 +257,7 @@ footer a:hover {
     color: var(--ap-dark-blue);
 }
 
-/* 5. Responsividade
-   -------------------------------------------------------------------------- */
+
 @media (max-width: 768px) {
     .section {
         padding: 64px 0;
